@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jaswant20110028](https://github.com/Jaswant20110028)
 
-- 💬 Ask me about **Data Cleaning |Data Processing | Data Analytics | MS-Excel | Python | SQL**
+- 💬 Ask me about ** HTML5 | CSS3 |  |Data Processing | Data Analytics | MS-Excel | Python | SQL**
 
 - 📫 How to reach me **jaswantsingh982856@gmail.com**
 
